@@ -1,6 +1,6 @@
 public class Conta {
     int numero;
-    String titulo;
+    String titular;
     double saldo;
 
 }
